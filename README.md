@@ -3,7 +3,7 @@ MapWithRoutes
 
 This is a sample IPhone application demonstrates drawing routes on MKMapView using unofficial Google directions api reverse engineered by MapKi
 
-It is not maintained anymore, please feel free to improve.
+This project is not maintained, please feel free to improve.
 
 References:
 -----------
